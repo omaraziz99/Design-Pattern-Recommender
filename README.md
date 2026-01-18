@@ -32,7 +32,7 @@ Analyze, detect, and transform design patterns in your code using Machine Learni
 2. **Create a virtual environment (recommended):**
    python -m venv venv   
    source venv/bin/activate  
-   # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
 
 3. **Install dependencies:**
    pip install -r requirements.txt
